@@ -26,7 +26,7 @@
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgibrann&show_icons=true&theme=prussian)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgibrann&show_icons=true&theme=prussian&hide_border=true)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgibrann&show_icons=true&locale=en&layout=compact" alt="www" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgibrann&label=Profile%20views&color=0e75b6&style=flat" alt="www" /> </p>
